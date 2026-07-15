@@ -3,7 +3,9 @@
 Developed a comprehensive web application to digitalize and automate traditional library operations.
 
 • Designed core features for tracking book acquisitions, managing member borrowing records, and monitoring due dates.
+
 • Streamlined administrative data management workflows using PHP and SQL, improving overall operational efficiency.
+
 • Created an intuitive UI (HTML, CSS, JavaScript) for seamless interaction by librarians and administrators.
 
 <br> <br>
