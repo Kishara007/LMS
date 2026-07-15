@@ -1,10 +1,10 @@
 # Library Management System
 
-This library management system is software that is designed to manage all the functions of a library. It helps librarians to maintain the database of new books and the books that are borrowed by members along with their due dates. This system completely automates all your library's activities.
+Developed a comprehensive web application to digitalize and automate traditional library operations.
 
-◾ This project is developed for assignment purposes in our university. 
-
-◾ This system was developed by using HTML, CSS, JavaScript, Php, and SQL.
+• Designed core features for tracking book acquisitions, managing member borrowing records, and monitoring due dates.
+• Streamlined administrative data management workflows using PHP and SQL, improving overall operational efficiency.
+• Created an intuitive UI (HTML, CSS, JavaScript) for seamless interaction by librarians and administrators.
 
 <br> <br>
 ![1](https://user-images.githubusercontent.com/96550083/152148834-abb087b9-596a-47ac-9cfb-d3ab89a98559.png)
